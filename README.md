@@ -1,4 +1,3 @@
-
-creating a readme file in the main branch
+ merging feature branchs to main branch
 # GitMasteryChallenge
 commit in collaborative branch

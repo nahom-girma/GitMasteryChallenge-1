@@ -1,5 +1,3 @@
-The 3rd commit readme
-This is a Readme file for gitmasterychallenge repository
-
+ merging feature branchs to main branch
 # GitMasteryChallenge
 commit in collaborative branch

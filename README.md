@@ -1,4 +1,4 @@
-The second commit readme
+The 3rd commit readme
 This is a Readme file for gitmasterychallenge repository
 
 # GitMasteryChallenge
